@@ -4,3 +4,6 @@
 - [第一题：用系统功能调用实现简单输入输出](https://github.com/AnTuo1998/Computer-Organization-and-architecture/blob/master/mutualhw01-1.asm)
 
 - [第二题：字符串查找比较](https://github.com/AnTuo1998/Computer-Organization-and-architecture/blob/master/mutualhw01-2.asm)
+### 第一次上机作业
+- 第一题：用DOS功能调用实现简单输入输出
+- 第二题：字符串查找比较
